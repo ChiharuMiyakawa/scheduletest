@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  start_date: MyString
+  date: MyString
+  end_date: 2024-05-12
+  all_day_existence: false
+
+two:
+  title: MyString
+  start_date: MyString
+  date: MyString
+  end_date: 2024-05-12
+  all_day_existence: false
